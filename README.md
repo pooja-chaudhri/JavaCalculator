@@ -1,4 +1,4 @@
-# Java Console Calculator 🔢
+# Java Console Calculator 
 
 This is a simple Java console-based calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division. It uses methods, loops, `Scanner` for user input, and error handling (e.g., divide-by-zero).
 
