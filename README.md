@@ -18,8 +18,9 @@ JavaCalculator/
 └── README.md  
 
 ## How to Run
-1. Open terminal/command prompt inside the project folder.
-2. Compile the Java files using:
+ Run the exported JAR file:
+
+java -jar StudentRecordSystem.jar
 
 ## Author
 Pooja Chaudhri
