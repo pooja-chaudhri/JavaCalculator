@@ -20,7 +20,7 @@ JavaCalculator/
 ## How to Run
  Run the exported JAR file:
 
-java -jar StudentRecordSystem.jar
+java -jar Calculator.jar
 
 ## Author
 Pooja Chaudhri
